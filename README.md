@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 https://github.com/user-attachments/assets/9caabda6-b043-48ee-afe2-607364066869)
 
-(https://github.com/user-attachments/assets/476100ee-18ef-4bba-9af7-214b9bef0a40)
+https://github.com/user-attachments/assets/476100ee-18ef-4bba-9af7-214b9bef0a40)
 
 
 

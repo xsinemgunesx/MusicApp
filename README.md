@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+        ![mus1](https://github.com/user-attachments/assets/9caabda6-b043-48ee-afe2-607364066869)
+
+        ![mus2](https://github.com/user-attachments/assets/476100ee-18ef-4bba-9af7-214b9bef0a40)
+
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
